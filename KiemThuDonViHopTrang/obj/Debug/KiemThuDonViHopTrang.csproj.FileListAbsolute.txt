@@ -1,0 +1,145 @@
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.AssemblyReference.cache
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.CoreCompileInputs.cache
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuD.D58648A8.Up2Date
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data3.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data4.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data5.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data14e.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data14.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13e.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12e.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11e.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data15.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data5.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data4.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data3.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.pdb
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.pdb
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.AssemblyReference.cache
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.CoreCompileInputs.cache
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuD.D58648A8.Up2Date
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.dll
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.pdb
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data16.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data17.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data18.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data19.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data20.csv
+D:\ĐẠI HỌC\NĂM 4\KI I\DBCLVKT\LeThanhAn_TestTuan07\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data21.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data10.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data6.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data8e.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data8.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data7.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data9e.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data9.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data15.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data14e.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data14.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13e.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12e.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11e.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data16.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data17.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data21.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data20.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data19.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data18.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data5.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data4.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data3.csv
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.AssemblyReference.cache
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.CoreCompileInputs.cache
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuD.D58648A8.Up2Date
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data10.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data6.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data8e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data8.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data7.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data9e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data9.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data15.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data14e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data14.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data13.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data12.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11e.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data11.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data16.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data17.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data21.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data20.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data19.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data18.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data5.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data4.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\data3.csv
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\KiemThuDonViHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\ThuVienKiemThuHopTrang.pdb
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.AssemblyReference.cache
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.csproj.CoreCompileInputs.cache
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuD.D58648A8.Up2Date
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.dll
+D:\Workspace\Testing\KiemThuHopTrang\LuongQuocThai_21138951_KiemThuHopTrang_BaiTap20CauKiemThuHopTrang\KiemThuDonViHopTrang\obj\Debug\KiemThuDonViHopTrang.pdb

@@ -1,0 +1,9 @@
+﻿a,b,c,exp
+1,1,3,Not a Triagle
+2,3,10,Not a Triagle
+5,1,3,Not a Triagle
+3,4,5,Triangle is Scalene
+2,2,3,Triangle is Isosceles
+2,3,2,Triangle is Isosceles
+3,2,2,Triangle is Isosceles
+3,3,3,Triangle is Equilater
